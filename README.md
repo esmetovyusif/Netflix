@@ -5,26 +5,26 @@
 Bu layihə Netflix-dəki filmlər və seriallar haqqında məlumatları analiz edir, vizuallaşdırır və istifadəçilərin baxış trendlerini araşdırır.
 
 
--Film tiplərini görə paylanma
+Film tiplərini görə paylanma
 
--İstifadəçi reytinqlərinə görə ən yüksək 10 film hansıdır?
+İstifadəçi reytinqlərinə görə ən yüksək 10 film hansıdır?
 
--1/2/3/4 rübdə ən yüksək izləyici reytinqi olan 4 film hansı olub?
+1/2/3/4 rübdə ən yüksək izləyici reytinqi olan 4 film hansı olub?
 
 
 **Texnologiyalar / Kitabxanalar**
 
 Hansı proqramlaşdırma dilləri və kitabxanalar istifadə olunub:
 
--Python
+Python
 
--Pandas
+Pandas
 
--Matplotlib / Seaborn
+Matplotlib / Seaborn
 
--NumPy
+NumPy
 
--Jupyter Notebook
+Jupyter Notebook
 
 
 ![Netflix Dashboard](images/netflix.png)
