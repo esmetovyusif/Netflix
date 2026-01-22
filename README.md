@@ -27,7 +27,7 @@ NumPy
 Jupyter Notebook
 
 
-![Netflix Dashboard](images/netflix.png)
+![Netflix Dashboard](images/python_netflix.png)
 
 Layihə data analitika bacarıqlarının (data cleaning, data transformation, visualization, analysis) inkişaf etdirilməsi məqsədi ilə hazırlanmışdır.
 
